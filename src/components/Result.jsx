@@ -1,4 +1,8 @@
 const Result = () => {
-    return () 
-}
+  return (
+    <div className="right">
+      <span className="result"></span>
+    </div>
+  );
+};
 export default Result;
