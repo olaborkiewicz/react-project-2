@@ -1,7 +1,7 @@
 const Headings = () => {
   return (
     <div className="headings">
-      <img className="logo" src="../public/logo.png" />
+      <img className="logo" src="/logo.png" alt="logo" />
       <h1>Przelicznik walut</h1>
     </div>
   );
