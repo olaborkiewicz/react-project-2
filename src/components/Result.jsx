@@ -1,7 +1,7 @@
-const Result = () => {
+const Result = ({ result }) => {
   return (
     <div className="right">
-      <span className="result"></span>
+      <span className="result"> TO {result} PLN</span>
     </div>
   );
 };
