@@ -51,22 +51,3 @@ const Currency = () => {
   );
 };
 export default Currency;
-
-/*
-const getCurrency = () => {
-  axios
-    .get(
-      `https://api.nbp.pl/api/exchangerates/rates/a/${selectCurrency.value}/?format=json`
-    )
-    .then((response) => {
-      resultWindow.innerText = `TO  ${
-        Math.round(response.data.rates[0].mid * amountInput.value * 100) / 100
-      }  PLN`;
-    })
-    .finally(() => (loaderIcon.style.display = "none"));
-};
-
-
-
-counterBtn.addEventListener("click", calculateResult);
-*/
