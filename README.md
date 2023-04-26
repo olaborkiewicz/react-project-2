@@ -1,3 +1,56 @@
+<br>
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="100px" height="100px" >
+<p/>
+
+</h1>
+
+<h4 align="center">React Currency Converter Project</h4>
+
+
+
+
+
+## Project Overview 🎉
+
+
+This is my own project of a currency converter build in React. Website made for portfolio. 
+I've used React JS, HTML and CSS. 
+
+
+
+## Tech/framework used 🔧
+
+| Tech                                                  
+| ---------------------------------------------------
+| #HTML
+| #CSS
+| #React JS
+
+
+## Screenshots 📺
+
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/120216579/234633492-882a5077-c237-4597-89e7-22b03809e7b0.png" alt="Screenshot">
+</p>
+
+
+
+
+## Installation 💾
+
+Global setup:
+
+  1. Download and install Git
+  2. git config --global user.name "First Last"
+  3. git config --global user.email EMAIL_ADDRESS
+  4. Copy the <> Code from GitHub and paste it:
+  5. git clone https://github.com/olaborkiewicz/react-project-2.git
+  6. cd ~/react-project-2/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +121,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Live 📍
+
+https://borkiewicz-react-currency-converter.netlify.app/
+
+
+
+## Credits 
+
+FUTURE COLLARS
